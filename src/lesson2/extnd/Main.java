@@ -20,7 +20,7 @@ public class Main {
         System.out.println(cust);
 
 
-        User user = new Customer(123, "asdasd", "eqweqw", "asd@asd.com");
+        User user = new Customer(123, "asdasd", "eqweqw", "lesson5_io.asd@lesson5_io.asd.com");
 
         Admin admin = new Admin();
 

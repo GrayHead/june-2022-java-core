@@ -6,7 +6,7 @@ public class Main {
 //        CommonData commonNameSurname = new CommonData("vasya", "pupkin");
 //
 //        User user = new User(1, commonNameSurname);
-//        Customer customer = new Customer(commonNameSurname, 32, "asdasda@asd.com");
+//        Customer customer = new Customer(commonNameSurname, 32, "asdasda@lesson5_io.asd.com");
 
 
 

@@ -29,9 +29,9 @@ public class Main {
 //        }
 
 
-//        switch ("asd") {
+//        switch ("lesson5_io.asd") {
 //
-//            case "asd":
+//            case "lesson5_io.asd":
 //                //asdugahsdfhasdf
 //                break;
 //

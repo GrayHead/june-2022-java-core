@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-//        User user = new User(1, "asd", Gender.FEMALE);
+//        User user = new User(1, "lesson5_io.asd", Gender.FEMALE);
 //        Gender gender = user.getGender();
 //        if (gender.isPipka()) {
 //            System.out.println("asdhfgadfgasdfd");

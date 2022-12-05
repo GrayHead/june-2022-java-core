@@ -3,13 +3,13 @@ package lesson1.classes;
 public class Main {
     public static void main(String[] args) {
 
-//        User asd = new User();
-////        asd.id = 1;
-////        asd.name = "vasya";
-////        asd.status = true;
+//        User lesson5_io.asd = new User();
+////        lesson5_io.asd.id = 1;
+////        lesson5_io.asd.name = "vasya";
+////        lesson5_io.asd.status = true;
 //////        String[] skills = {"asdasd", "qwqweqw"};
-//////        asd.skills = skills;
-////        asd.skills = new String[]{"java", "html"};
+//////        lesson5_io.asd.skills = skills;
+////        lesson5_io.asd.skills = new String[]{"java", "html"};
 //
 //
 //        User user = new User(
